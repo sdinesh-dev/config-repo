@@ -1,0 +1,10 @@
+my:
+  greeting: Hello Spring-Boot-Config-Service
+list:
+  of:
+    numbers: dev,One,Two,Three,Four,Five,Six,Eight
+
+dbValues: "{connectionString:'spring-config', username:'server', password:'server'}"
+app:
+  name: Spring-Boot-Config-Service Local Github
+  description: Welcome to Spring-Boot-Config-Service Local Github.com
