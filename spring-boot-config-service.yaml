@@ -9,4 +9,4 @@ list:
 dbValues: "{connectionString:'spring-config', username:'server', password:'server'}"
 app:
   name: Spring-Boot-Config-Service Local Github refresh
-  description: Newly Updated Welcome to Spring-Boot-Config-Service Local Github.com
+  description: v1 Newly Updated Welcome to Spring-Boot-Config-Service Local Github.com
