@@ -1,3 +1,5 @@
+spring:
+  port: 8086
 my:
   greeting: Hello Spring-Boot-Config-Service
 list:
