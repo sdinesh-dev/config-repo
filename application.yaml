@@ -7,4 +7,4 @@ list:
 dbValues: "{connectionString:'spring-config', username:'server', password:'server'}"
 app:
   name: Local Github
-   description: Welcome to ${app.name}
+  description: Welcome to Local Github.com
