@@ -1,12 +1,12 @@
 spring:
-  port: 8086
+  port: 8087
 my:
-  greeting: Hello Spring-Boot-Config-Service
+  greeting: Hello Spring-Boot-Config-Service Refresh
 list:
   of:
-    numbers: dev,One,Two,Three,Four,Five,Six,Eight
+    numbers: dev,One,Two,Three,Four,Five,Six,Eight,Nine
 
 dbValues: "{connectionString:'spring-config', username:'server', password:'server'}"
 app:
-  name: Spring-Boot-Config-Service Local Github
-  description: New Updated Welcome to Spring-Boot-Config-Service Local Github.com
+  name: Spring-Boot-Config-Service Local Github refresh
+  description: Newly Updated Welcome to Spring-Boot-Config-Service Local Github.com
