@@ -1,0 +1,10 @@
+my:
+  greeting: Hello Local GitHub
+list:
+  of:
+    numbers: One,Two,Three,Four,Five,Six,Seven
+
+dbValues: "{connectionString:'spring-config', username:'server', password:'server'}"
+app:
+  name: Local Github
+   description: Welcome to ${app.name}
